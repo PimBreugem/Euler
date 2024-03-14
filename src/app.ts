@@ -5,6 +5,7 @@ import {solution as solution4 } from "./solutions/problem4";
 import {solution as solution5 } from "./solutions/problem5";
 import {solution as solution6 } from "./solutions/problem6";
 import {solution as solution7 } from "./solutions/problem7";
+import {solution as solution8 } from "./solutions/problem8";
 
 console.log(solution1())
 console.log(solution2())
@@ -13,3 +14,4 @@ console.log(solution4())
 console.log(solution5())
 console.log(solution6())
 console.log(solution7())
+console.log(solution8())
