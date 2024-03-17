@@ -8,6 +8,7 @@ import {solution as solution7 } from "./solutions/problem7";
 import {solution as solution8 } from "./solutions/problem8";
 import {solution as solution9 } from "./solutions/problem9";
 import {solution as solution10 } from "./solutions/problem10";
+import {solution as solution11 } from "./solutions/problem11";
 
 console.log(solution1())
 console.log(solution2())
@@ -19,3 +20,4 @@ console.log(solution7())
 console.log(solution8())
 console.log(solution9())
 console.log(solution10())
+console.log(solution11())
