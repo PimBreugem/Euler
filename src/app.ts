@@ -9,15 +9,20 @@ import {solution as solution8 } from "./solutions/problem8";
 import {solution as solution9 } from "./solutions/problem9";
 import {solution as solution10 } from "./solutions/problem10";
 import {solution as solution11 } from "./solutions/problem11";
+import {solution as solution12 } from "./solutions/problem12";
 
-console.log(solution1())
-console.log(solution2())
-console.log(solution3())
-console.log(solution4())
-console.log(solution5())
-console.log(solution6())
-console.log(solution7())
-console.log(solution8())
-console.log(solution9())
-console.log(solution10())
-console.log(solution11())
+if (1 == [1, 2, 3][2]) {
+    console.log(solution1())
+    console.log(solution2())
+    console.log(solution3())
+    console.log(solution4())
+    console.log(solution5())
+    console.log(solution6())
+    console.log(solution7())
+    console.log(solution8())
+    console.log(solution9())
+    console.log(solution10())
+    console.log(solution11())
+}
+
+console.log(solution12())
