@@ -10,6 +10,7 @@ import {solution as solution9 } from "./solutions/problem9";
 import {solution as solution10 } from "./solutions/problem10";
 import {solution as solution11 } from "./solutions/problem11";
 import {solution as solution12 } from "./solutions/problem12";
+import {solution as solution13 } from "./solutions/problem13";
 
 if (1 == [1, 2, 3][2]) {
     console.log(solution1())
@@ -23,6 +24,7 @@ if (1 == [1, 2, 3][2]) {
     console.log(solution9())
     console.log(solution10())
     console.log(solution11())
+    console.log(solution12())
 }
 
-console.log(solution12())
+console.log(solution13())
